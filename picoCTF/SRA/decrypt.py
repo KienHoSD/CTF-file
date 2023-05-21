@@ -1,0 +1,6 @@
+from Crypto.Util.number import getPrime, inverse, bytes_to_long
+from string import ascii_letters, digits
+from random import choice
+from attacks.rsa.known_d import attacks
+ct = 21737274069523105360355552772166575318424821164819384069066092166776890573140
+d = 48371572191972772434629471227516708173062014281007798824632998047142493026593

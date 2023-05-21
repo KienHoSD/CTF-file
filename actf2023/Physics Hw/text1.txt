@@ -1,0 +1,4 @@
+_physics_hw.png.extracted
+physics_hw.png
+text1.txt
+text2.txt

@@ -1,0 +1,1 @@
+Flag của bài này sẽ là (cat answer*.txt | md5dum), trong đó answer_i sẽ là output của input thứ i.
