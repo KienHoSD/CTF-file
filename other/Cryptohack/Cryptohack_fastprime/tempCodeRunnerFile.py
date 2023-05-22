@@ -1,2 +1,0 @@
-
-d = inverse(e, phi)

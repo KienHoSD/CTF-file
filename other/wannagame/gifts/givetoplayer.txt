@@ -1,8 +1,0 @@
-Dưới đây là md5sum của từng output, các bạn có thể sử dụng nó để kiểm tra kết quả của mình
-answer-1.txt: 9bf31c7ff062936a96d3c8bd1f8f2ff3  -
-answer-2.txt: 988db2e893f01ed0159aa75e2139bbc7  -
-answer-3.txt: 03b00d24dae6d74a0a2fa97643504eb2  -
-answer-4.txt: b11b955e0a00d919388633bce5dd7ba7  -
-answer-5.txt: 7627873992ef5fc2ab17af4aedb501ce  -
-answer-6.txt: 9e2c8e423599b10369f036b6e1899e06  -
-answer-7.txt: 63e5f9ff3cb73949531c4b6bda506c56  -
