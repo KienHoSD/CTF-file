@@ -1,3 +1,4 @@
+# I'm not the one who solved this. I'm borrow the solution :P
 from Crypto.Util.number import long_to_bytes as ltb, bytes_to_long as btl, inverse, isPrime
 from sage.all_cmdline import two_squares
 
