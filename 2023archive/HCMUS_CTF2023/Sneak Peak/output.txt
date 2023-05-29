@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "/mnt/c/Users/chann/Desktop/CTF/CTF file/HCMUS_CTF2023/Sneak Peak/working.py", line 16, in <module>
-    from attacks.factorization.coppersmith import factorize_p
-ModuleNotFoundError: No module named 'attacks'

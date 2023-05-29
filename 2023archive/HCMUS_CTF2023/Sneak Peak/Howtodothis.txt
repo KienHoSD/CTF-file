@@ -1,3 +1,0 @@
-
-export PYTHONPATH="$PYTHONPATH:/mnt/d/helper/crypto_attacks"(import thư viện crypto_attacks ở ổ d/helper)
-sage --python3 working.py &> output.txt
